@@ -16,7 +16,7 @@
 
 - 📫 How to reach me *tps.shinde.work@gmail.com*
 
-- 📄 Know about my experiences [[Resume](https://docs.google.com/document/d/1-DI1UNuhAz5oCzvoO99mv9_nX5QPBGusgcvU3xy7wBs/export?format=pdf)]
+- 📄 Know about my experiences [[See Resume](https://docs.google.com/document/d/1-DI1UNuhAz5oCzvoO99mv9_nX5QPBGusgcvU3xy7wBs/edit?usp=sharing)]. Click here to [[Download](https://docs.google.com/document/d/1-DI1UNuhAz5oCzvoO99mv9_nX5QPBGusgcvU3xy7wBs/export?format=pdf)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
