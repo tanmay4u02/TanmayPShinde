@@ -9,8 +9,7 @@
 
 - 👯 I’m looking to collaborate on *Full Stack Applications*
 
-- 📝 I regularly write articles on *coming soon*
-<!-- [https://medium.com/@anas4u02](https://medium.com/@anas4u02) -->
+- 📝 I write articles on [https://medium.com/@tanmay1842](https://medium.com/@tanmay1842)
 
 - 💬 Ask me about *C++, Node and React JS*
 
