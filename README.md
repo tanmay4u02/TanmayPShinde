@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TanmayPShinde" alt="TanmayPShinde" /></a> </p>
 
-- 🔭 I’m currently working on *Node JS and React*
+- 🔭 I’m currently working on *Node JS, Spring Boot and React*
 
 - 👯 I’m looking to collaborate on *Full Stack Applications*
 
 - 📝 I write articles on [https://medium.com/@tanmay1842](https://medium.com/@tanmay1842)
 
-- 💬 Ask me about *C++, Node and React JS*
+- 💬 Ask me about *C++, Java, Javascript*
 
 - 📫 How to reach me *tps.shinde.work@gmail.com*
 
