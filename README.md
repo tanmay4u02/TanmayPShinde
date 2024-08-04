@@ -204,4 +204,4 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TanmayPShinde&show_icons=true&locale=en" alt="TanmayPShinde" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmay4u02&show_icons=true&locale=en" alt="TanmayPShinde" /></p>
